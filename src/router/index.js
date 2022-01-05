@@ -39,7 +39,7 @@ const routes =
     },
     {
       path: '/blog',
-      name: 'blog',
+      name: 'Blog',
       component: Blog
     },
     {
@@ -49,7 +49,7 @@ const routes =
     },
     {
       path: '/services',
-      name: 'services',
+      name: 'Services',
       component: Services
     }
     
